@@ -11,9 +11,8 @@ body {
     height: 100vh;
 
     overflow: hidden;
-    text-align: center;
 
-    font: 400 30px/1.25 Arial, Helvetica, sans-serif;
+    font: 400 3vh/1.25 Arial, Helvetica, sans-serif;
 }
 
 .container {
@@ -32,16 +31,17 @@ body {
     align-items: center;
     justify-content: center;
 
-    width: 1000px;
-    height: 500px;
-    padding: 20px;
-    margin-bottom: 20px;
-
+    width: 90vw;
+    height: 70vh;
+    padding: 1vh 1vw;
+    margin-bottom: 5vh;
     border: 3px solid #000;
+
+    text-align: center;
 }
 
 .title {
-    margin-bottom: 5px;
+    margin-bottom: 0.5vh;
 }
 
 .title:last-child {
@@ -49,13 +49,13 @@ body {
 }
 
 .button {
-    padding: 10px 50px;
+    padding: 1vh 5vw;
 
     outline: none;
     border: none;
     cursor: pointer;
 
-    font: 400 20px/1.5 sans-serif;
+    font: 400 2.5vh/1.2 sans-serif;
     color: #fff;
     background-color: #000;
     transition: all 0.3s ease-in-out;
