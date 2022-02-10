@@ -1,6 +1,6 @@
 # random styles app
 
-<p>Простое приложение для тренировки работы с DOM. 
-При клике на кнопку динамически меняются стили DOM объекта.</p>
+Простое приложение для практики работы с DOM. 
+При клике на кнопку случайные стили динамически меняют стили DOM объекта
 
-<a href="https://rasuliazamat.github.io/random-styles--mini-app/">Предпросмотр</a>
+[Просмотр](https://rasuliazamat.github.io/random-styles--mini-app/)
