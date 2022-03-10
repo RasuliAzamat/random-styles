@@ -1,10 +1,11 @@
-# Random styles app
+# Random styles
 
 Простое приложение для практики работы с DOM. 
 При клике на кнопку случайные стили динамически меняют стили DOM объекта.
-Оставил для своего использования.
 
-[Просмотр](https://rasuliazamat.github.io/random-styles--mini-app/)
+P.S. Оставил для своего использования. Полезно, когда нужно подобрать гармоничные цвета и шрифты! 
+
+[Просмотр](https://rasuliazamat.github.io/random-styles/)
 
 <img src="https://github.com/RasuliAzamat/random-styles--mini-app/blob/main/random-styles-page-view.png" border="0">
 
